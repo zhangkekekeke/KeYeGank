@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8D6E63</color>
+    <color name="colorPrimaryDark">#5D4037</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="item_select_color">@android:color/transparent</color>
+    <color name="item_select_normal">#ffffff</color>
+    <color name="immersive_bars">#99000000</color>
+    <color name="background_dark">#ff333333</color>
+    <color name="gif_badge_dark_image">#b3ffffff</color>
+</resources>

@@ -35,7 +35,7 @@ public class AboutActivity extends RxAppCompatActivity {
                 .compose(bindToLifecycle())
                 .subscribe(aVoid -> {
                     Intent intent = new Intent(Intent.ACTION_VIEW);
-                    intent.setData(Uri.parse("https://github.com/Assassinss/pretty-girl"));
+                    intent.setData(Uri.parse("https://github.com/zhangkekekeke/KeYeGank"));
                     intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                     startActivity(intent);
                 });
